@@ -1,5 +1,9 @@
 life study
 time management
 java sript
+^ angular
+^ react
+^ laravel
 hai ini yang baru
 okkk
+python
